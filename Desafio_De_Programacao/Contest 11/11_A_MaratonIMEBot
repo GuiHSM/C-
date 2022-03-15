@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+	char texto[201];
+	cin.get(texto,201);
+	string a(texto),inte="?",susu="Sussu ",susu2=" Sussu";
+	int val=a.find(" Sussu ");
+	if(val<0&&a.size()>=susu.size()){
+	    bool eh = true;
+	    for(int i=0;i<susu.size();i++){
+	        if(a[i]!=susu[i]){
+	            eh=false;
+	        }
+	    }
+	    if(eh){
+	        val=1;
+	    }
+	}
+	if(val<0&&a.size()>susu.size()){
+	    bool eh = true;
+	    for(int i=1;i<=susu2.size();i++){
+	        if(a[a.size()-i-1]!=susu2[susu2.size()-i]){
+	            eh=false;
+	        }
+	    }
+	    if(eh){
+	        val=1;
+	    }
+	}
+	if(val<0&&a.size()==6){
+	    val = a.find("Sussu");
+	}
+	if(a[a.size()-1]==inte[0]){
+        cout << "7";
+	}else if(val>-1){
+        cout << "AI SUSSU!";
+	}else{
+		cout << "O cara é bom!";
+	}
+}
