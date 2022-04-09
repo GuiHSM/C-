@@ -8,4 +8,4 @@
 <p>Round 1B 2020, 6539º, 0 pontos, os três códigos corretos foram feitos após o término da competição<p>
 <p>Qualifier 2021, 10377º, 41 pontos<p>
 <p>Qualifier 2022, 8900º, 44 pontos<p>
-<p>Round 1A 2022, 4473º, 44 pontos<p>
+<p>Round 1A 2022, 4473º, 25 pontos<p>
