@@ -10,3 +10,4 @@
 <p>185º in Round 653(Div 3)<p>
 <p>2503º in Educacional Code Forces Round 106(Div 2)<p>
 <p>5144º in Round 787(Div 3)<p>
+<p>3868º in Educacional Code Forces Round 134(Div 2)<p>
