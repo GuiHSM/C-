@@ -11,3 +11,5 @@
 <p>2503º in Educacional Code Forces Round 106(Div 2)<p>
 <p>5144º in Round 787(Div 3)<p>
 <p>3868º in Educacional Code Forces Round 134(Div 2)<p>
+<p>1726º in Round 818(Div 2)<p>
+<p>4965º in Educacional Code Forces Round 135(Div 2)<p>
