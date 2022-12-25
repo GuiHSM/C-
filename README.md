@@ -17,5 +17,5 @@
 <li>Árvore binária</li>
 <li>Mapas/Dicionários</li>
 <li>Conjuntos(Set)</li>
-<p>As pastas estão divididas através das organizações que organizaram as competições que eu participei, dentro delas a competição especifíca e por fim o nome do arquivo é o nome do exercício</p>
+<p>As pastas estão divididas através das organizações que organizaram as competições, ou estudos, que participei, dentro delas a competição especifíca e por fim o nome do arquivo é o nome do exercício</p>
 <p>Todos os exercícios estão em c++ por ser a linguagem que eu mais gosto de programar para competições</p>
