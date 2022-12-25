@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Resultados</h1>
 </div>
-<p>Pastas com todos os meus códigos nas competições da Google, nesse ReadMe tem meus resultados e posições em cada uma, meu nickname é GuilhermeS:<p>
+<p>Pastas com todos os meus códigos nas competições da <a href="https://codingcompetitions.withgoogle.com/">Google</a>, nesse ReadMe tem meus resultados e posições em cada uma, meu nickname é GuilhermeS:<p>
 <p>CodeJam Qualifier 2019, Não Participei, mas fiz os exercícios para treinar<p>
 <p>CodeJam Qualifier 2020, 10801º, 42 pontos<p>
 <p>CodeJam Round 1A 2020, 8926º, 3 pontos, ao olhar o código usado achei muitos erros por isso não coloquei aqui nesta pasta<p>
